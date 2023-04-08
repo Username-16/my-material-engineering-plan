@@ -1,6 +1,7 @@
 Year 1: Learn the basics of material engineering.
 
 Objectives
+
 a)	Materials science and engineering fundamentals.
 Book: Material Science and Engineering by William Callister and David Rethwisch
 Milestones:
@@ -17,11 +18,13 @@ Milestones:
 (b)	Chapter 14: Polymer Structures - polymer structures, polymer properties, polymer processing
 (c)	Chapter 15: Characteristics and Applications of Polymers - polymer types, polymer applications
 (d)	Chapter 16: Composites - composite types, composite properties, composite processing
+
 b)	Materials characterization techniques.
 Book: Materials Characterization by Yang Len
 Milestones:
 (a)	The basic principles of Raman spectroscopy, Raman scattering, and interpreting Raman spectra.
 (i)	Chapter 9: Vibrational Spectroscopy for Molecular Analysis - Raman spectroscopy, infrared spectroscopy, molecular vibrations, selection rules
+
 c)	Materials processing techniques
 Book: Material Science and Metallurgy by OP Khanna
 Milestones:
@@ -35,6 +38,7 @@ Milestones:
 (b)	Chapter 15: Metal Forming Analysis - slip line theory, upper bound analysis, slab analysis.
 (3)	Advantages and limitations of each technique.
 (a)	Chapter 16: Metal Forming Applications - metal forming equipment, metal forming operations, metal forming selection.
+
 d)	Materials selection and design.
 Book: Foundations of Materials Science and Engineering by William Smith
 Milestones:
@@ -62,6 +66,7 @@ Milestones:
 (a)	Chapter 9: Principles of Solidification - solidification processes, nucleation and growth, grain size and shape
 (b)	Chapter 10: Solid Solutions and Phase Equilibrium - phase diagrams, lever rule, eutectic systems
 (c)	Chapter 11: Dispersion Strengthening by Phase Transformations and Heat Treatment - phase transformations, diffusion-controlled transformations, martensitic transformations.
+
 f)	Materials modeling and simulation.
 Book: Applied Computational Materials Modeling: Theory, Simulation and Experiment edited by Guillermo Bozzolo et al.
 Milestones:
@@ -97,9 +102,11 @@ a.	Appendix A: Introduction to Engineering Design with SolidWorks
 i.	How to use SolidWorks software to create 3D models of engineering components and assemblies
 ii.	How to perform basic design tasks such as sketching, extruding, revolving,
 
+
 Year 2: Advance your material engineering skills.
 
 Objectives
+
 a)	Advanced materials science and engineering topics such as nanomaterials, biomaterials, and composites.
 Book: Nanomaterials: An Introduction to Synthesis, Properties and Applications by Dieter Vollath
 Milestones:
